@@ -1,11 +1,11 @@
 Requirements:
-
+--------------------------------------------
 discord.py
 pytz
 asyncio
 datetime
 FFmpeg
---------------------------------------------
+
 pip install discord.py pytz asyncio datetime
 
 FFmpeg:
